@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: left;
+  }
+
+  h3 {
+    text-align: right;
+  }
+
+  body {
+    background-image: url("tree.png");
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  }
+
+  a {
+    color:#F0E421;
+    text-decoration: none;
+  }

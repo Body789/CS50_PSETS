@@ -1,0 +1,6 @@
+prompt user for hieght
+if hieght isnot between 1-8
+go to line 2
+print number of hashes in each row increases by one
+print spaces in each row decreases by 1
+print \n after each row

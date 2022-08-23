@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Omega is far from Big O
+
+sort2 uses: Merge sort
+
+How do you know?: faster than sort 3
+
+sort3 uses: Selection sort
+
+How do you know?: slower than sort 2
